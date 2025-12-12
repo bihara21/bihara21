@@ -9,10 +9,10 @@
 <h3 align="center">🚀 Support Engineer 🚀</h3>
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/87200540/220956107-a8335f82-9f33-4f4e-9d9f-027877922b8d.gif" />
 
-- 🎓 I'm Studying Bsc(Special) Management Information Systems at NSBM Green University Sri-Lanka.
-- 🚀 I'm Working as a Support Engineer in IT Company SriLanka.
-- 🌱 I’m currently learning Software Testing.
-- 👯 I’m looking for a QA Internship.
+- 🎓 I studied Bsc(Special) Management Information Systems at NSBM Green University Sri-Lanka with a GPA 3.80 (First Class)
+- 🚀 I'm Working as a Associate QA Engineer in IT Company SriLanka. Previously I worked as a Support Engineer.
+- 🌱 I’m currently learning Software Testing (Automation).
+- 👯 I’m looking for a QA Opportunities.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/bihara-wijekoon-91ab23199/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:numanshi2000@gmail.com)
 
